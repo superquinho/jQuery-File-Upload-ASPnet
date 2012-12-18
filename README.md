@@ -4,7 +4,7 @@ jQuery-File-Upload-ASPnet
 blueimp awesome jQuery File Upload plugin running on VB.net VS2010 
 
  This is an ASP.net project using the awesome jQuery File Upload developed by blueImp (https://github.com/blueimp/jQuery-File-Upload) and adapted to run on server-side with VB.net.
-To make this run smooth on your machine, all you will beed is Visual Studio 2010 installed.
+To make this run smooth on your machine, all you will need is Visual Studio 2010 installed.
 Some of important changes made for this project to run are:
 
     - on FileUpload\js\jquery.fileupload-ui.js it maximum size allowed for a single file is set to 100kb.
